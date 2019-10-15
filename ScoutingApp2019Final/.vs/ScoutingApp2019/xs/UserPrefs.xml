@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{EA3863E5-C218-2026-C06D-B4A1D2ABABC0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/comments.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EndScript.cs" Line="19" Column="8" />
+      <File FileName="Assets/Scripts/Variables.cs" Line="44" Column="6" />
+      <File FileName="Assets/Scripts/PostAnalysis.cs" Line="67" Column="1" />
+      <File FileName="Assets/Scripts/StartScript.cs" Line="63" Column="1" />
+      <File FileName="Assets/Scripts/startRound.cs" Line="116" Column="1" />
+      <File FileName="Assets/Scripts/verifyteamnumber.cs" Line="32" Column="1" />
+      <File FileName="Assets/Scripts/BarcodeGenerator.cs" Line="17" Column="105" />
+      <File FileName="Assets/Scripts/Restart.cs" Line="38" Column="1" />
+      <File FileName="Assets/Scripts/NoShow.cs" Line="35" Column="35" />
+      <File FileName="Assets/Scripts/comments.cs" Line="50" Column="22" />
+      <File FileName="Assets/Scripts/teamnumber.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/textfile.cs" Line="109" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ScoutingApp2019" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="comments.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

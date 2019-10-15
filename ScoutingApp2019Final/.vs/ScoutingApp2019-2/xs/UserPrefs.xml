@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{A1F6A304-9250-97BC-EACC-42D68F4FD271}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Variables.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Username.cs" Line="15" Column="74" />
+      <File FileName="Assets/Scripts/StartScript.cs" Line="104" Column="14" />
+      <File FileName="Assets/Scripts/modeSelect.cs" Line="40" Column="44" />
+      <File FileName="Assets/Scripts/Variables.cs" Line="33" Column="8" />
+      <File FileName="Assets/Scripts/NoShow.cs" Line="14" Column="6" />
+      <File FileName="Assets/Scripts/textfile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/comments.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/specialCommentsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BarcodeGenerator.cs" Line="61" Column="51" />
+      <File FileName="Assets/Scripts/Restart.cs" Line="48" Column="34" />
+      <File FileName="Assets/Scripts/FoulComments.cs" Line="68" Column="29" />
+      <File FileName="Assets/Scripts/FoulTeamsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FoulCardsScript.cs" Line="33" Column="49" />
+      <File FileName="Assets/Scripts/verifyteamnumber.cs" Line="12" Column="35" />
+      <File FileName="Assets/cameraScript.cs" Line="10" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ScoutingApp2019-2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Variables.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="02c3cb57-64c6-41ca-8620-dedcf40a10e0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
